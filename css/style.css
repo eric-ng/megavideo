@@ -1,0 +1,29 @@
+*, html {
+	font-family: courier;
+}
+
+body {
+	margin: 0;
+	margin: 0 auto;
+	width: 1024px;
+}
+
+footer {
+	clear: both;
+}
+
+.floating {
+	float: left;
+}
+
+.floating > div {
+	padding: 0px 20px;
+}
+
+.brand-logo {
+	width: 400px;
+	height: 360px;
+	background:#D0D0D0;
+	box-shadow: 0px 0px 3px #000000;
+	float: left;
+}
